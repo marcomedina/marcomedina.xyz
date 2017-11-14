@@ -14,7 +14,7 @@ disqusShortname = ""
 	bio = "I'm a web developer <br/>living in Berlin, Germany and <br/>working for <a href='https://hellofresh.com'>HelloFresh</a>."
 	# Enter optionally your twitter account
 	twitter = "medinamarco"
-	enableRSS = true
+	enableRSS = false
 
 	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
 	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
