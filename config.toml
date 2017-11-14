@@ -1,0 +1,54 @@
+# Site settings
+baseurl = "https://marcomedina.xyz/"
+languageCode = "en-us"
+title = "My personal site"
+theme = "cactus"
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = "UA-109587650-1"
+# Disable comments by leaving disqusShortname empty
+disqusShortname = ""
+
+[params]
+	name = "Marco Medina"
+	description = "Marco Medina's Personal Website"
+	bio = "I'm a web developer <br/>living in Berlin, Germany and <br/>working for <a href='https://hellofresh.com'>HelloFresh</a>."
+	# Enter optionally your twitter account
+	twitter = "medinamarco"
+	enableRSS = true
+
+	# Integrate Javascript files or stylesheets by adding the url to the external assets or by
+	# linking local files with their path relative to the static folder, e.g. "css/styles.css"
+	customCSS = []
+	customJS  = []
+
+	# The variables below are optionally too and can be used to
+	# translate or customize each string of the theme.
+
+	# Navigation links
+	home = "/"
+	subscribe = "rss"
+	# Pagination links
+	olderPosts = ""
+	newerPosts = ""
+	readMore = ""
+	copyright = ""
+	# Sharing options and author information in posts
+	aboutAuthor = "I'm a Web developer"
+	tweet = ""
+	share = ""
+	# 404 page
+	title404 = ""
+	subtitle404 = ""
+
+	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
+	iconFont = "mono-social"
+    # The social icons can be styled differently if you use mono as font - circle, rounded, or empty
+    socialIconStyle = ""
+
+# Add additional social link entries underneath
+[social]
+    github   = "https://www.github.com/marcomedina"
+    linkedin = "https://www.linkedin.com/in/medinamarco"
+    instagram = "https://www.instagram.com/medinamarco"
+    email = "mailto:mmedinalr@gmail.com"
+
